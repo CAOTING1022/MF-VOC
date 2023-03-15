@@ -5,5 +5,5 @@ Although many people have proposed methods to produce datasets of multi-focused 
 The data set has become almost a secret in the multi-focus fusion methods.
 Finally we chose to make the dataset publicly available.
 
-#REFERENCE
+# REFERENCE
 [1] Guo X, Nie R, Cao J, et al. Fully convolutional network-based multifocus image fusion[J]. Neural computation, 2018, 30(7): 1775-1800.
